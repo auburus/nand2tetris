@@ -4,7 +4,7 @@ Nand2Tetris
 My progress on [nand2tetris](https://www.nand2tetris.org/).
 
 - Project 01: ✔️
-- Project 02: ❌
+- Project 02: ✔️
 - Project 03: ❌
 - Project 04: ❌
 - Project 05: ❌
